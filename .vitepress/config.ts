@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/en-lang-vitepress/',
   title: "🎈 英语成长笔记",
   description: "A VitePress Site",
   themeConfig: {
