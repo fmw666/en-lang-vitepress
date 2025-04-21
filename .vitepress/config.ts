@@ -66,7 +66,7 @@ export default defineConfig({
   },
 
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/vitepress-logo-mini.svg' }],
-    ['link', { rel: 'icon', type: 'image/png', href: '/vitepress-logo-mini.png' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/en-lang-vitepress/vitepress-logo-mini.svg' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/en-lang-vitepress/vitepress-logo-mini.png' }],
   ],
 })
