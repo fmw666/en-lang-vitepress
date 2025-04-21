@@ -31,6 +31,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Blank Space', link: '/docs/speaking/songs/blank_space' },
+              { text: 'Cruel Summer live', link: '/docs/speaking/songs/cruel_summer' },
             ]
           },
         ]
