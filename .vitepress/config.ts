@@ -46,6 +46,15 @@ export default defineConfig({
       }
     ],
 
+    search: {
+      provider: 'local'
+    },
+
+    editLink: {
+      pattern: 'https://github.com/fmw666/en-lang-vitepress/edit/main/docs/:path',
+      text: '在 GitHub 上编辑此页面'
+    },
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],
@@ -58,6 +67,10 @@ export default defineConfig({
     docFooter: {
       prev: '上一页',
       next: '下一页'
+    },
+
+    lastUpdated: {
+      text: '最后更新于'
     },
 
     darkModeSwitchLabel: '主题',

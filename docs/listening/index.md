@@ -8,8 +8,20 @@
 
 ## 如何写文章
 
+### 推荐链接
+
+* https://www.youtube.com/@GCFLearnFree/videos
+
+* https://space.bilibili.com/454750818
+
 ### 工具
 
 * youtube to mp3 tools: https://wave.video/zh/convert/youtube-to-mp3-145
 * (Highly recommend) mp3/mp4 file storage and convert to txt: https://mwrfxz4d70m.feishu.cn/minutes/me
 * (Need to pay) youtube to text and split the vedio: https://maestra.ai/zh/tools/video-to-text/youtube-transcript-generator
+
+## Prompts
+
+::: details 通过原文生成导读
+asd
+:::

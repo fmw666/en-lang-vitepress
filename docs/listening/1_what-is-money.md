@@ -1,32 +1,71 @@
 # What is money?
 
-> Link: https://www.youtube.com/watch?v=btZ43QLlj40
+## 🎯 导读
 
-Audio File
+* **Introduction 1:** This article explores the evolution of money from ancient bartering practices to its modern digital form, highlighting how cultural and personal experiences influence our attitudes toward financial matters.
+* **Introduction 2:** Key points include the historical development of currency, the shift towards digital payments, and the emotional impact of money on individuals and societies.
+* **Introduction 3:** The text examines the transformation of monetary systems from tangible objects to cryptocurrencies, discussing both opportunities and challenges in today's evolving financial landscape.
+
+## 🎈 内容
+
+::: details 📺 查看原视频
+> Link: https://www.youtube.com/watch?v=btZ43QLlj40
+<iframe width="100%" height="400px"
+src="https://www.youtube.com/embed/btZ43QLlj40">
+</iframe>
+:::
 
 <audio controls><source type="audio/mpeg" src="./audio/221109_what_is_money.mp3"></source>Your browser does not support the audio element.</audio>
 
-<details>
-<summary>👇 Show fully article.</summary>
+::: details 📋 显示全文
 <hr>
 
-Throughout human history, people have bartered or traded for things they needed. Mesopotamian tribes traded for weapons, while the Romans traded for salt. The Silk Road allowed for goods like fur, spices and gems to travel between the east and the west. These exchanges were happening all over the world, objects that were small and hard to break, like cowry shells are gold nuggets, help to make transactions easier, so they started being used as currency.
+[Throughout](#throughout) human history, people have bartered or traded for things they needed. Mesopotamian tribes traded for weapons, while the Romans traded for salt. The Silk Road allowed for goods like fur, spices and gems to travel between the east and the west. These exchanges were happening all over the world, objects that were small and hard to break, like cowry shells are gold nuggets, help to make transactions easier, so they started being used as currency.
 
-<br><br>
+<br>
 
 Money slowly became a placeholder for value. Over the years, it's taken on many forms, from coins to leather to paper. Of course, in order for people to want to use it, the currency had to be trusted or issued by an institution that was, this could be a trade guild, a bank or a governmant. Otherwise it would just be worthless, people didn't just spend money on goods either. To this day, whatever holds value is worth money.
 
-<br><br>
+<br>
 
 Workers are paid for thier time and skill, people pay for access or for entertainment. More recently, money is becoming something we often don't physically see or even hold in our hand. The world of payments and banking has largely gone digital. New types of currency continue to pop up, up like cryptocurrency. In this new evolving world of digital money, many people are willing to take risks. There are new markets to invest in where we use money to make more money. Others hold on to their hard earned cash. Cash and worry about what the future might bring.
 
-<br><br>
+<br>
 
 But why are people's attitudes about money so different? Maybe you know what it's like to struggle and not have enough money, or maybe you've seen family members fight over larger amounts of it. These types of experiences shape who we are and how we feel about money in general. But we shouldn't let our emotional connections get in the way of our understanding. So the more you learn about money, regardless of your circumstances, the more you'll understand how to use it in order to live a better life, whatever that may look like.
+:::
 
-</details>
+## ✨ 听写
 
-### New words/sentences
+::: details 📝 显示听写
+::: code-group
+
+```[第一次 - 2025.04.21]
+/**
+ * @type {import('vitepress').UserConfig}
+ */
+const config = {
+  // ...
+}
+
+export default config
+```
+
+```[第二次]
+import type { UserConfig } from 'vitepress'
+
+const config: UserConfig = {
+  // ...
+}
+
+export default config
+```
+
+:::
+
+## 🔥 生词
+
+::: details 💡 New words/sentences
 
 #### throughout
 
@@ -49,6 +88,7 @@ But why are people's attitudes about money so different? Maybe you know what it'
 
 #### Mesopotamian
 
++ 美 [ˌmesəupə´teɪmjə]  英 [ˌmesəupə´teɪmjə]
 + noun 美索不达米亚人: `an ancient historical area in what is now Iraq and surrounding areas, between the Tigris and Euphrates Rivers`
 
 #### tribe
@@ -155,4 +195,4 @@ Gold nuggets were found in the river.`
 + noun [ plural ]: `the conditions and facts that are connected with and affect a situation, an event, or an action`
 + `Due to unforeseen circumstances, the event has been canceled.`
 
-## 划分节奏
+:::
