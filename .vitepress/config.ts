@@ -30,6 +30,7 @@ export default defineConfig({
             text: '英文歌曲',
             collapsed: true,
             items: [
+              { text: '读前必看', link: '/docs/speaking/songs/' },
               { text: 'Blank Space', link: '/docs/speaking/songs/blank_space' },
               { text: 'Cruel Summer live', link: '/docs/speaking/songs/cruel_summer' },
             ]
