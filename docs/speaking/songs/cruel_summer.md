@@ -26,7 +26,23 @@ Devils roll their dice, angels roll their eyes<br>
 What doesn't kill me makes me want you more
 :::
 
-:::details bridge video
+:::details 音标及朗读
+
+/ɔː haɪ/<br>
+
+/ˈfiːvər driːm haɪ ɪn ðiː ˈkwaɪ.ət əv ðə naɪt/<br>
+/juː noʊ ðæt aɪ kaʊt ɪt/<br>
+/bæd bæd bɔɪ ʃaɪni toɪ wɪð ə praɪs/<br>
+/juː noʊ ðæt aɪ bɑʊt ɪt/<br>
+
+/ˈkɪlɪŋ miː sloʊ aʊt ðə ˈwɪndəʊ/<br>
+/aɪm ˈɔːlweɪz ˈweɪtɪŋ ˈfɔːr juː tuː biː ˈweɪtɪŋ bɪˈloʊ/<br>
+/ˈdevəlz rɑʊl ðeər daɪs, ˈæŋɡəlz rɑʊl ðeər aɪz/<br>
+/wɑːt dʌzənt kɪl miː meɪks miː wɑːnt juː mɔːr/
+
+---
+
+> AI 音频
 <audio controls><source type="audio/mpeg" src="./audio/cruel_summer_ai_verse1-prechorus.mp3"></source>Your browser does not support the audio element.</audio>
 :::
 
@@ -41,7 +57,20 @@ But ooh, woah-oh<br>
 It's a cruеl summer with you
 :::
 
-:::details bridge video
+:::details 音标及朗读
+
+/ænd ɪts njuː ðə ˈʃeɪp əv jɔːr ˈbɑːdi/<br>
+/ɪts bluː ðə ˈfiːlɪŋ aɪv gɑːt/<br>
+/ænd ɪts uː wɑːoʊ/<br>
+/ɪts ə ˈkruːəl ˈsʌmər/<br>
+/ɪts kuːl ðæts wɑːt aɪ tɛl əm/<br>
+/noʊ ruːlz ɪn ˈbreɪkəbl ˈhɛvən/<br>
+/bʌt uː wɑːoʊ/<br>
+/ɪts ə ˈkruːəl ˈsʌmər wɪð juː/
+
+---
+
+> AI 音频
 <audio controls><source type="audio/mpeg" src="./audio/cruel_summer_ai_chorus.mp3"></source>Your browser does not support the audio element.</audio>
 :::
 
@@ -57,6 +86,24 @@ So cut the headlights, summer's a knife<br>
 I'm always waiting for you just to cut to the bone<br>
 Devils roll their dice, angels roll their eyes<br>
 And if I bleed, you'll be the last to know, oh<br>
+:::
+
+:::details 音标及朗读
+
+/hæŋ jʊr hɛd loʊ ɪn ðə ɡloʊ əv ðə ˈvɛndɪŋ maɪʃiːn/<br>
+/aɪm nɑːt ˈdaɪɪŋ/<br>
+/wiː seɪ ðæt wiːl dʒʌst skruː ɪt ʌp ɪn ðiːz ˈtraɪɪŋ taɪmz/<br>
+/wiːr nɑːt ˈtraɪɪŋ/<br>
+
+/soʊ kʌt ðə ˈhɛdlaɪts, ˈsʌmərz ə naɪf/<br>
+/aɪm ɔːlˈweɪz ˈweɪtɪŋ ˈfɔːr juː dʒʌst tə kʌt tə ðə bɔːn/<br>
+/ˈdɛvəlz roʊl ðeər daɪs, ˈæŋɡəlz roʊl ðeər aɪz/<br>
+/ænd ɪf aɪ bled, juːl bɪ ðə læst tə nəʊ, ɔː/
+
+---
+
+> AI 音频
+<audio controls><source type="audio/mpeg" src="./audio/cruel_summer_ai_verse2-prechorus.mp3"></source>Your browser does not support the audio element.</audio>
 :::
 
 :::warning [Chorus]
@@ -78,6 +125,20 @@ Does anyone here know the lyrics to this bridge?<br>
 Prove it
 :::
 
+:::details 音标及朗读
+
+/ɔːlˈraɪt lɑːs ˈæŋɡələs wiː hæv əˈraɪvɪd/<br>
+/æt ðə ˈvɜːrɪ fɜːrs brɪdʒ əv ðə ˈiːvənɪŋ/<br>
+/nɔː aɪ hæv ə ˈkwestʃən/<br>
+/dəz ˈeɪniwən hɪər noʊ ðə ˈlɪrɪks tə ðɪs brɪdʒ/<br>
+/proʊv ɪt/
+
+---
+
+> AI 音频
+<audio controls><source type="audio/mpeg" src="./audio/cruel_summer_ai_break.mp3"></source>Your browser does not support the audio element.</audio>
+:::
+
 :::warning [Bridge]
 I'm drunk in the back of the car<br>
 And I cried like a baby comin' home from the bar (Oh)<br>
@@ -90,7 +151,21 @@ I love you, ain't that the worst thing you ever heard?"<br>
 He looks up, grinnin' like a devil
 :::
 
-:::details bridge video
+:::details 音标及朗读
+
+/aɪm drʌŋk ɪn ðə bæk əv ðə kɑːr/<br>
+/ænd aɪ kraɪd laɪk ə ˈbeɪbi kɑːmɪn hoʊm frəm ðə bɑːr/<br>
+/sed, aɪm faɪn, bət ɪt wɑːzənt truː/<br>
+/aɪ dɑːnt wɑːnnə kiːp ˈskriːts dʒʌst tə kiːp juː/<br>
+/ænd aɪ snʌk ɪn θruː ðə ˈgɑːrdən ɡeɪt/<br>
+/ˈɛvəri naɪt ðæt ˈsʌmər dʒʌst tə siːl maɪ feɪt/<br>
+/ænd aɪ skriːm, fɔːr ˈwʌtəvər ɪts wɜːrθ/<br>
+/aɪ lʌv juː, eɪnt ðæt ðə wɜːrst θɪŋ juː ˈɛvər hɜːrd/<br>
+/hɪ lʊks ʌp, ˈɡrɪnɪn laɪk ə ˈdɛvəl/
+
+---
+
+> AI 音频
 <audio controls><source type="audio/mpeg" src="./audio/cruel_summer_ai_bridge.mp3"></source>Your browser does not support the audio element.</audio>
 :::
 
