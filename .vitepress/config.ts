@@ -33,6 +33,7 @@ export default defineConfig({
               { text: '读前必看', link: '/docs/speaking/songs/' },
               { text: 'Blank Space', link: '/docs/speaking/songs/blank_space' },
               { text: 'Cruel Summer live', link: '/docs/speaking/songs/cruel_summer' },
+              { text: 'Anti Hero', link: '/docs/speaking/songs/anti_hero' },
             ]
           },
         ]
